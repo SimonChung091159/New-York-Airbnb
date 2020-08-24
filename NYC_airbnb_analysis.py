@@ -32,7 +32,7 @@ Airbnb = load_data()
 
 # show data on streamlit
 st.write(Airbnb)
-st.map
+
 
 
 #CALCULATE ANNUAL EARNING FROM AIRBNB
